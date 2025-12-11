@@ -1,5 +1,4 @@
-# Prepare Data
-We provide the data set ([Baidu Pan](https://pan.baidu.com/s/1uTu50IB9329hBR9qopanaA?pwd=jhgn ) Code：jhgn)
+
 
 # Results
 ![image](https://github.com/yfhdm/GCRANet/raw/main/images/pred.png)
