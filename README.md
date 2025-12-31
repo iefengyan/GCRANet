@@ -18,13 +18,13 @@ We provide the predicted saliency maps at [google drive](https://drive.google.co
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@article{@article{yan2025global,
+@article{yan2025global,
   title={Global Context Guided Refinement and Aggregation Network for Lightweight Surface Defect Detection},
   author={Yan, Feng and Jiang, Xiaoheng and Lu, Yang and Cui, Lisha and Cao, Jiale and Xu, Mingliang},
   journal={Pattern Recognition},
   pages={112893},
   year={2025},
   publisher={Elsevier}
-}}
+}
 ```
 
